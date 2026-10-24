@@ -3,7 +3,7 @@
   "devices": {
     "PDVLDB21U6X1XB": {
       "name": "جهاز الإدارة الرئيسي",
-      "active": true,
+      "active": false,
       "alert": {
         "show": true,
         "title": "تنبيه ودي بشأن الاشتراك ☕",
