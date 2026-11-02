@@ -12,8 +12,8 @@
     }
   },
   "global_alert": {
-    "show": false,
-    "title": "إعلان عام",
-    "message": ""
+    "show": true,
+    "title": "إمعلش يجدع",
+    "message": "يرج التحديث "
   }
 }
