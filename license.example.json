@@ -1,7 +1,7 @@
 {
   "_comment": "ملف تراخيص الأجهزة لنظام إدارة الفواتير والمحاسبة",
   "devices": {
-    "PDVLDB21U6X1XB": {
+    "DEV-6FEF35CA-2FD5-": {
       "name": "جهاز الإدارة الرئيسي",
       "active": true,
       "alert": {
