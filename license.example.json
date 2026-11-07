@@ -23,7 +23,7 @@
     }
   },
   "global_alert": {
-    "show": true,
+    "show": false,
     "title": "إمعلش يجدع",
     "message": "يرج التحديث "
   }
